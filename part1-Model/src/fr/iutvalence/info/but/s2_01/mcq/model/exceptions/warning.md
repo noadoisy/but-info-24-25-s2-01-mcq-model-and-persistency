@@ -1,0 +1,1 @@
+Exceptions related to model part must be defined in this package

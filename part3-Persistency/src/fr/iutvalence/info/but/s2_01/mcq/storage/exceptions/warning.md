@@ -1,0 +1,1 @@
+Exceptions related to persistency part must be defined in this package
