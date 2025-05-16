@@ -26,6 +26,7 @@ public class QuestionnaireId  {
     }
 
     public String toString() {
-        return "["+this.authorName+SEPARATOR+this.title+"]";
+        return this.authorName+SEPARATOR+this.title;
     }
+
 }
