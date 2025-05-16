@@ -1,4 +1,4 @@
-package fr.iutvalence.info.but.s2_01.mcq.launchers.validation;
+package src.fr.iutvalence.info.but.s2_01.mcq.launchers.validation;
 
 import src.fr.iutvalence.info.but.s2_01.mcq.model.core.QuestionnaireId;
 import src.fr.iutvalence.info.but.s2_01.mcq.model.core.Submission;
